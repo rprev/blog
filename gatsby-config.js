@@ -4,7 +4,8 @@ module.exports = {
     title: `アウトプット用ブログ`,
     author: {
       name: `ravy`,
-      summary: `日記、技術メモなど。`,
+      summary: `雑記、技術メモ`,
+      icon: false,
     },
     description: `.`,
     siteUrl: `https://rprev.github.io/blog/`,
